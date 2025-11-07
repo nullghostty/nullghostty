@@ -1,8 +1,8 @@
 ### Ulises Gomez
 
-I'm a self-taught backend engineer building server-side apps in Django. 
+I'm a self-taught backend engineer building with Go and Lua. 
 
-Latley, I've been enjoying learning and building apps in Rust.
+Latley, I've been enjoying learning Linux and using Arch .dotfiles coming soon.
 
 When I'm not coding, I'm configuring my Neovim config. 
 
